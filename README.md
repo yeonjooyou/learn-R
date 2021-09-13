@@ -6,6 +6,8 @@
 
 ## R Lecture
 
+### data
+
 ### R-lecture(2021 하반기)
 
 > 강의내용 소스코드 저장소
@@ -21,8 +23,19 @@
 * 02_data_collection
   * day07.R(08월24일)_정적데이터수집
   * day08.R(08월25일)_정적데이터수집/사용자키 제거
-  * day09.R(8월26일)_동적데이터수집
-  * day10.R(8월27일)
+  * day09.R(08월26일)_동적데이터수집
+  * day10.R(08월27일)
+* 03_visualization
+  * day11.R(08월31일)_사용자키 제거
+  * day12.R(09월01일)
+* 04_dplyr
+  * day13.R(09월02일) *기본시각화*
+  * day14.R(09월03일) *기본시각화*
+* 05_ggplot2
+  * day15.R(09월07일) *결측치와 이상치 처리, 고급시각화*
+  * day16.R(09월08일)
+* 06_map
+  * day17.R(09월09일)_사용자키 제거
 
 
 
@@ -60,24 +73,65 @@
     * output/twitter.txt
     * output/navernews.txt
 * day08_동적 웹 페이지 데이터 수집 방법
-  * lab11.R(8월26일실습1)
+  * lab11.R(08월26일실습1)
     * output/movie.csv
 * day09
-  * lab12.R(8월27일실습1)
-    * hotel.txt
-    * output/hotel_top_word.csv
+  * lab12.R(08월27일실습1)
+    * ~~hotel.txt~~
+    * ~~output/hotel_top_word.csv~~
     * product_click.log
+* day10
+  * lab13.R(08월31일실습1)
+    * movie_reviews3.csv
+    * output/movie_top_word.csv
+    * yes24.txt
+    * output/yes24.html
+  * lab14.R(08월31일실습2)
+* day11
+  * lab15.R(09월01일실습1)
+    * product_click.log
+    * 성적.txt
+    * output/clicklog1.png
+    * output/clicklog2.png
+    * output/clicklog3.png
+* day12
+  * lab16.R(09월02일실습1)
+    * product_click.log
+    * movie_reviews3.csv
+    * 성적.txt
+    * output/clicklog4.png
+    * output/clicklog5.png
+    * output/clicklog6.png
+* day13
+  * lab17.R(09월03일실습1)
+    * emp.csv
+    * ggplot2::mpg
+* day14
+  * lab18.R(09월07일실습1)
+    * mpg
+    * product_click.log
+    * data(GNI2014)
+    * 성적2.csv
+    * output/result1.png
+    * output/result2.png
+    * output/result3.png
+    * output/result4.png
+    * output/result5.png
+* day15
+  * lab19.R(09월09일실습1)_사용자키 제거+개인정보 제거
+    * lab19.png
+    * lab19.html
 
 
 
 ### test(수행평가)
 
-* 정적크롤링수행평가(8월25일)
+* 정적크롤링수행평가(08월25일)
   * navercomic1.R
   * navercomic1.csv
   * navercomic2.R
   * navercomic2.csv
-* 동적크롤링수행평가(8월27일)
+* 동적크롤링수행평가(08월27일)
   * gs25.R
   * gs25_twotoone.csv
 
