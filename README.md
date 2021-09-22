@@ -36,6 +36,8 @@
   * day16.R(09월08일)
 * 06_map
   * day17.R(09월09일)_사용자키 제거
+* 07_analysis
+  * day18.R(09월10일)
 
 
 
@@ -119,8 +121,8 @@
     * output/result5.png
 * day15
   * lab19.R(09월09일실습1)_사용자키 제거+개인정보 제거
-    * lab19.png
-    * lab19.html
+    * output/lab19.png
+    * output/lab19.html
 
 
 
